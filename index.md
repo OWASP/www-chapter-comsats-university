@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Comsats University - Student Chapter
-tags: example-tag
+tags: Comsats University
 region: Asia
 meetup-group:
 
