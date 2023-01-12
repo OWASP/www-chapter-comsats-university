@@ -5,6 +5,7 @@ title: OWASP Comsats University - Student Chapter
 tags: Comsats University
 region: Asia
 meetup-group:
+Country: Pakistan
 
 ---
 
