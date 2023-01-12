@@ -1,4 +1,5 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Dr. Atif Saeed](mailto:atif.saeed@owasp.org)
+* [Abdul Sattar](mailto:abdul.sattar@owasp.org)
+* [Muhammad Abdullah Bin Yasin](mailto:muhammad_abdullah.bin_yasin@owasp.org)
+* [Khansa Rahim](mailto:khansa.rahim@owasp.org)
