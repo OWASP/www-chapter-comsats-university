@@ -2,6 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Comsats University - Student Chapter
+site_side: true
 tags: Comsats University
 region: Asia
 meetup-group:
@@ -17,6 +18,9 @@ Country: Pakistan
 
 ## Welcome
 Welcome to OWASP Comsats University Chapter
+
+
+<img src="assets/images/owasp chapter.png" style="width: 50%; height: 50%;" alt="OWASP comsatsLogo" />
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
