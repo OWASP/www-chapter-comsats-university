@@ -1,5 +1,5 @@
 ### Comsats University Information
-* Provide Group Information
+* Comsats University Islamabad, Lahore Campus
 
 ### Social Links
 * [Meetup](#)
