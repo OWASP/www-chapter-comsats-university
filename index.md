@@ -10,18 +10,10 @@ Country: Pakistan
 
 ---
 
-
-
-
-
-
-
 ## Welcome
 The COMSATS University Lahore OWASP chapter aims to provide a platform for students to learn about the latest security threats and vulnerabilities, as well as best practices for securing web applications. The chapter also provides opportunities for students to participate in cybersecurity-related events and competitions, network with industry professionals, and develop their skills in the field of cybersecurity.
 
 The chapter's activities include organizing seminars, workshops, and talks on various cybersecurity topics such as web application security, ethical hacking, cryptography, and network security. Additionally, the chapter organizes hands-on training sessions to help students gain practical experience in cybersecurity tools and techniques.
-
-
 
 <img src="assets/images/owasp chapter.png" style="width: 50%; height: 50%;" alt="OWASP comsatsLogo" />
 
